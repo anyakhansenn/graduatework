@@ -1,0 +1,137 @@
+,Gender,Age,Sample,A1,A2,A3,A4,A5,A6,A7,A7_symptom,A8,A9,A10,A11,A11_symptom,A12,A12_symptom,A13,A13_symptom,A14,A14_symptom,A15,A16,A17,A17_symptom,B1,B2,B3,B4,B5,B6,B7,B8,B9,B10,B11,B12,B13,B14,B15,B16,B17,diagnosis_GAD,form
+0,Female,21 - 30,Clinical,6,7,4,6,2,3,4,FA,7,8,3,1,racing heartbeat,0,,2,headaches,2,,3,2,8,work,9,8,7,8,4,8,5,4,6,4,3,6,2,5,7,4,3,1,mild
+3,Female,21 - 30,Clinical,9,6,8,9,2,6,9,FA,9,8,3,2,,3,,5,lightheadedness,3,,8,7,9,home,10,9,8,7,8,6,8,7,5,4,3,9,8,8,7,7,7,1,moderate
+4,Male,21 - 30,Clinical,10,8,9,10,4,9,9,SA,6,6,4,4,shortness of breath,2,,7,headaches,2,,4,7,7,home,7,8,9,5,5,7,6,6,3,6,4,2,5,7,5,8,9,1,moderate
+5,Female,21 - 30,College,6,4,10,8,5,7,2,,3,4,5,5,racing heartbeat,0,,3,,1,,3,4,7,work,10,9,7,8,6,8,2,7,6,6,1,0,2,4,4,4,4,1,mild
+6,Female,31 - 40,Clinical,8,4,8,7,2,10,8,FA,5,4,7,3,,2,,4,dizziness,0,,7,4,8,work,10,10,8,6,4,3,6,4,4,7,5,3,6,7,7,8,10,1,moderate
+7,Female,21 - 30,Clinical,9,7,9,10,2,6,7,SA,6,7,5,2,,3,,3,,3,,8,5,9,work,9,9,8,9,7,6,4,3,6,4,4,5,7,7,8,9,9,1,mild
+8,Female,21 - 30,Clinical,7,8,6,6,5,5,7,SA,8,9,3,4,shortness of breath,0,,4,headaches,4,frequent uritation,9,7,10,social,9,9,10,8,9,7,6,4,3,6,4,7,6,6,6,7,8,1,mild
+9,Male,21 - 30,College,5,9,4,3,7,6,4,SA,4,3,4,0,,1,,4,dizziness,3,,2,3,5,work,4,5,4,5,5,3,2,1,1,1,0,1,1,2,3,2,4,1,mild
+10,Female,21 - 30,Clinical,8,6,7,2,4,1,2,,3,4,2,1,,2,,5,shakiness,4,sweating,5,7,8,work,7,8,9,5,5,7,6,6,3,6,4,2,5,7,5,8,9,1,mild
+11,Female,20 or below,Clinical,9,6,7,5,6,9,7,FA,6,5,5,3,,0,,3,,2,,6,8,9,work,6,9,6,7,7,7,7,8,6,8,1,0,2,2,9,8,8,1,moderate
+12,Female,21 - 30,Clinical,10,7,4,8,3,8,8,FA,9,8,2,4,racing heartbeat,3,,6,headaches,3,,3,5,7,social,9,9,4,5,6,4,4,7,7,9,3,4,7,9,9,10,10,1,moderate
+13,Female,20 or below,Clinical,6,5,6,4,2,9,7,FA,6,7,5,2,,4,stomach upset,2,,4,sweating,5,7,6,work,8,9,7,6,4,3,6,4,4,7,5,3,8,8,9,9,10,1,mild
+14,Female,21 - 30,Clinical,5,4,9,7,3,8,6,FA,7,8,4,0,,5,constipation,3,,2,,4,8,8,home,6,6,4,9,6,4,8,8,8,4,0,1,1,6,6,8,6,1,mild
+15,Female,21 - 30,College,2,6,3,2,2,4,0,,3,2,3,2,,3,,5,headaches,4,sweating,3,5,7,work,6,6,4,2,3,3,0,1,2,1,1,4,3,4,3,4,3,1,mild
+18,Male,21 - 30,Clinical,8,7,9,5,6,9,8,FA,9,10,5,1,,0,,4,headaches,3,,7,6,5,social,7,8,8,6,9,9,10,9,10,3,3,0,4,7,5,3,6,1,moderate
+19,Female,21 - 30,Clinical,6,8,6,2,8,2,2,,8,7,4,4,racing heartbeat,5,constipation,3,,3,,8,7,6,work,6,6,7,6,5,5,6,7,6,5,5,4,3,3,5,5,5,1,mild
+20,Male,20 or below,College,5,7,8,7,5,4,3,,3,2,3,3,,2,,6,shakiness,4,tingling,4,5,4,,4,2,2,3,4,1,2,1,1,1,1,2,2,4,4,5,5,1,mild
+21,Female,21 - 30,Clinical,2,5,6,3,4,0,0,,3,4,4,2,,3,,6,lightheadedness,0,,7,6,7,work,7,7,6,6,5,0,0,4,4,4,3,2,4,0,1,7,8,1,mild
+22,Female,21 - 30,College,9,6,4,0,1,4,4,FA,2,5,6,5,shortness of breath,0,,6,lightheadedness,3,,3,6,5,social,8,8,7,0,6,6,4,5,4,5,5,3,2,1,1,1,5,1,mild
+23,Male,21 - 30,Clinical,8,10,8,5,6,2,7,SA,4,6,7,3,,6,irritable bowels,5,dizziness,4,frequent uritation,4,5,6,home,6,4,4,7,7,9,3,4,7,9,4,3,3,2,2,4,7,1,moderate
+25,Male,21 - 30,Clinical,3,8,5,6,7,6,7,SA,6,7,2,5,shortness of breath,8,constipation,5,,0,,7,7,8,work,8,9,7,6,4,3,6,4,4,7,5,3,6,7,8,8,10,1,moderate
+26,Male,21 - 30,Clinical,7,9,6,3,4,4,8,SA,6,5,5,3,,2,,4,,2,,7,8,9,work,9,10,8,6,6,7,6,4,5,5,3,2,4,2,7,7,8,1,moderate
+27,Male,21 - 30,Clinical,8,8,8,8,4,3,7,SA,7,6,5,2,,2,,8,headaches,1,,8,8,7,social,6,6,6,6,9,10,9,7,9,6,8,8,7,7,7,6,6,1,moderate
+28,Female,21 - 30,Clinical,5,7,9,6,3,4,6,FA,4,5,3,1,,3,,7,dizziness,3,,9,9,10,social,10,9,10,7,8,4,4,7,5,4,3,9,8,8,7,7,7,1,moderate
+29,Male,21 - 30,College,8,9,10,9,7,5,6,FA,4,5,4,4,chest tightness,2,,2,,3,,4,3,4,work,4,4,2,4,1,1,4,1,2,1,4,2,3,1,2,1,2,1,mild
+32,Female,31 - 40,Clinical,0,1,0,8,4,10,8,FA,9,10,6,4,racing heartbeat,9,constipation,8,dizziness,2,,7,8,7,social,0,2,0,1,2,1,3,4,2,1,4,3,3,4,9,9,9,1,mild
+33,Male,21 - 30,Clinical,8,9,10,6,2,10,10,FA,9,8,5,5,shortness of breath,4,irritable bowels,9,shakiness,1,,5,9,9,work,9,10,9,7,9,6,8,8,7,7,7,9,8,8,7,7,7,1,moderate
+34,Female,21 - 30,College,3,5,6,9,3,6,5,SA,6,5,4,2,,0,,8,dizziness,4,frequent uritation,4,2,2,,3,3,3,2,4,5,4,3,4,3,4,0,2,2,3,5,4,1,mild
+36,Female,20 or below,Clinical,5,9,8,8,9,2,9,SA,10,9,10,4,racing heartbeat,7,,6,dizziness,3,,6,10,9,home,10,9,9,4,4,5,3,2,1,1,3,5,6,5,5,9,10,1,moderate
+38,Female,21 - 30,College,3,6,7,6,7,5,4,,5,6,6,5,shortness of breath,4,stomach upset,6,lightheadedness,2,,2,4,5,home,4,3,4,3,4,1,2,1,2,1,1,1,2,3,4,2,2,1,mild
+39,Male,21 - 30,College,4,8,5,7,6,7,6,FA,5,4,5,3,,3,,7,trembling,4,sweating,3,3,3,,4,5,4,5,5,3,2,1,1,4,4,2,2,3,4,3,3,1,mild
+41,Male,21 - 30,Clinical,6,8,7,9,6,3,8,SA,9,10,8,6,racing heartbeat,7,diarrhea,7,headaches,2,,7,10,9,work,7,8,9,5,5,7,6,6,3,6,4,2,5,7,5,8,9,1,moderate
+42,Female,21 - 30,Clinical,2,4,8,6,7,2,8,FA,9,8,9,4,shortness of breath,5,,6,shakiness,4,sweating,8,9,10,work,1,2,1,3,4,2,1,2,3,3,2,4,4,2,4,5,2,1,mild
+44,Female,21 - 30,Clinical,10,9,6,6,3,8,10,FA,9,8,9,8,skipping heartbeat,9,constipation,8,shakiness,5,sweating,8,9,8,work,10,9,8,9,6,8,9,10,6,6,4,5,4,9,10,9,9,1,moderate
+45,Male,20 or below,College,3,8,8,9,6,3,2,,4,5,4,3,,0,,7,dizziness,3,,4,4,4,social,3,4,7,8,6,7,5,4,4,2,1,0,2,2,3,4,6,1,mild
+46,Female,21 - 30,Clinical,8,9,0,6,2,4,6,FA,5,6,5,3,,2,,9,dizziness,8,tingling,9,7,8,home,10,10,10,9,9,9,7,5,6,7,7,4,3,6,7,8,9,1,moderate
+47,Female,21 - 30,College,4,6,7,8,4,2,3,,4,3,4,5,racing heartbeat,1,,6,headaches,2,,3,2,3,,9,8,6,7,7,8,9,10,9,7,8,6,8,9,10,9,10,1,moderate
+48,Female,31 - 40,Clinical,6,8,9,10,3,9,10,FA,9,8,9,8,racing heartbeat,6,stomach upset,8,trembling,6,numbness,5,6,9,social,8,9,7,6,4,3,6,4,4,7,5,3,6,7,7,8,10,1,moderate
+49,Female,20 or below,College,8,9,10,9,3,3,4,SA,3,4,3,4,chest tightness,2,,4,headaches,2,,2,4,3,,6,7,6,5,4,3,2,1,6,4,1,2,2,6,4,4,3,1,mild
+51,Female,20 or below,College,8,8,6,10,8,7,9,FA,10,10,7,5,racing heartbeat,10,constipation,7,lightheadedness,4,sweating,10,10,10,work,9,6,9,8,6,8,10,2,6,8,3,5,7,2,2,6,10,1,moderate
+52,Male,20 or below,College,7,8,10,6,7,4,6,SA,8,9,9,6,racing heartbeat,6,constipation,8,lightheadedness,8,tingling,7,4,10,work,10,8,10,6,5,7,8,7,7,6,3,6,5,8,4,6,8,1,moderate
+54,Female,20 or below,Clinical,6,4,5,0,3,3,4,SA,6,7,9,4,racing heartbeat,4,stomach upset,5,dizziness,4,sweating,4,8,8,social,6,4,6,0,6,4,6,7,7,8,2,3,4,5,8,7,9,1,mild
+58,Female,21 - 30,Clinical,8,7,6,4,5,9,9,FA,8,6,9,3,racing heartbeat,7,constipation,4,lightheadedness,2,,8,9,9,work,7,8,5,10,6,7,10,9,8,4,4,8,6,2,5,9,9,1,moderate
+64,Male,20 or below,College,6,6,5,6,5,8,7,SA,7,7,6,3,shortness of breath,5,,6,lightheadedness,3,flushing,7,5,3,work,5,3,8,7,6,9,9,4,8,5,2,4,5,2,4,4,2,1,moderate
+65,Female,20 or below,College,5,4,6,5,2,4,2,,6,4,5,2,shortness of breath,5,diarrhea,7,headaches,6,frequent uritation,7,3,3,,6,5,6,6,2,4,2,6,5,5,2,5,7,6,5,3,2,1,mild
+66,Male,21 - 30,College,5,5,5,4,3,5,6,SA,5,6,4,2,,5,constipation,4,headaches,4,sweating,6,3,3,social,4,4,4,5,3,5,6,5,6,4,2,3,4,3,6,5,6,1,mild
+68,Female,21 - 30,College,6,6,7,4,0,4,5,SA,3,6,0,0,,0,,4,dizziness,0,,5,9,4,social,4,6,6,4,0,6,5,4,7,0,0,0,3,0,7,7,6,1,mild
+71,Female,20 or below,College,6,6,6,7,0,5,4,SA,10,10,9,8,chest tightness,10,diarrhea,8,headaches,6,sweating,10,8,9,work,3,2,6,6,0,5,4,10,10,9,8,10,8,6,10,8,9,1,moderate
+72,Male,20 or below,College,7,6,6,5,8,7,8,SA,10,9,7,3,shortness of breath,2,,9,headaches,7,numbness,8,10,6,work,6,5,5,6,8,6,7,9,8,7,3,2,8,6,7,7,6,1,moderate
+76,Female,21 - 30,Clinical,2,4,4,3,2,6,0,,5,6,3,0,,0,,6,dizziness,6,numbness,4,7,7,work,4,5,5,5,2,10,0,4,5,3,0,0,5,6,4,8,6,1,mild
+80,Female,20 or below,College,6,5,6,7,2,7,6,SA,7,5,5,6,racing heartbeat,5,irritable bowels,4,headaches,2,,6,5,2,,7,5,6,5,2,7,6,6,5,5,6,5,4,2,6,5,2,1,mild
+81,Female,20 or below,College,6,5,6,6,4,3,7,SA,1,4,9,4,racing heartbeat,0,,4,headaches,4,flushing,4,4,4,social,4,4,6,6,4,4,5,2,6,6,6,0,2,2,4,2,2,1,mild
+83,Female,31 - 40,Clinical,5,5,8,3,4,9,2,SA,5,3,1,5,skipping heartbeat,9,irritable bowels,3,trembling,4,flushing,8,10,5,work,7,5,6,5,4,8,2,6,3,1,6,7,5,4,5,3,5,1,mild
+85,Male,20 or below,College,4,4,5,5,2,5,4,SA,6,4,8,6,chest tightness,2,,3,lightheadedness,5,sweating,2,3,2,social,4,3,5,3,2,5,4,6,5,8,5,2,3,5,2,3,2,1,mild
+88,Female,21 - 30,College,6,10,10,3,0,7,10,SA,10,0,10,5,chest tightness,0,,5,shakiness,0,,10,10,6,home,6,10,10,2,0,2,10,10,0,10,2,0,2,0,10,10,4,1,moderate
+90,Female,20 or below,College,6,6,7,0,7,7,6,SA,4,0,0,6,skipping heartbeat,0,constipation,0,trembling,6,sweating,6,6,0,social,4,4,4,4,5,4,3,3,0,0,2,0,0,5,4,3,0,1,mild
+92,Female,20 or below,College,6,5,9,5,2,8,3,SA,7,4,9,5,shortness of breath,9,irritable bowels,2,shakiness,5,frequent uritation,7,9,6,work,7,3,8,9,1,9,4,5,3,9,5,2,3,6,4,6,2,1,moderate
+93,Female,20 or below,College,4,5,5,7,2,4,2,SA,3,3,2,2,,2,diarrhea,2,dizziness,4,sweating,2,5,5,work,4,5,5,5,2,4,2,3,3,2,2,2,2,2,2,5,5,1,mild
+94,Female,20 or below,Clinical,8,9,9,1,2,9,10,FA,8,5,5,6,skipping heartbeat,9,diarrhea,8,dizziness,4,flushing,10,9,6,work,8,9,9,8,1,9,10,8,2,4,7,10,7,2,5,9,4,1,moderate
+96,Male,21 - 30,NCN,4,6,7,3,0,5,1,,1,6,5,1,,1,,4,trembling,5,numbness,6,8,6,work,5,4,5,1,0,4,1,1,7,6,1,1,5,4,7,7,7,1,mild
+97,Female,21 - 30,College,10,5,10,5,2,3,1,,4,4,3,4,racing heartbeat,3,diarrhea,1,,1,,0,5,6,home,10,5,10,3,2,3,1,4,4,3,4,3,1,1,0,5,6,1,mild
+98,Male,21 - 30,College,6,1,8,4,6,7,5,SA,4,0,0,6,chest tightness,7,constipation,0,,8,sweating,4,5,3,work,4,1,7,3,6,5,3,2,0,0,2,3,0,7,2,2,2,1,mild
+99,Male,20 or below,Clinical,6,4,10,6,10,10,10,SA,8,7,1,6,racing heartbeat,0,,8,dizziness,0,,7,7,7,home,6,4,10,4,10,8,10,8,7,1,6,0,8,0,7,7,7,1,moderate
+100,Male,20 or below,College,4,3,6,4,3,5,4,SA,7,4,3,6,racing heartbeat,10,stomach upset,7,headaches,7,flushing,4,3,3,social,5,3,7,8,2,6,2,8,3,2,5,10,5,5,3,2,2,1,mild
+101,Female,20 or below,College,6,3,6,9,7,7,1,,2,1,1,5,racing heartbeat,6,constipation,7,shakiness,1,,5,8,5,social,6,2,6,4,2,4,1,2,1,1,5,6,6,1,6,6,7,1,mild
+102,Male,20 or below,College,7,9,9,6,9,9,10,FA,9,9,7,5,,0,,7,shakiness,0,,9,7,9,work,7,7,7,9,7,9,10,9,7,5,5,0,5,0,9,5,7,1,moderate
+104,Male,21 - 30,College,5,5,5,3,10,3,10,SA,4,0,0,2,chest tightness,10,constipation,9,dizziness,1,,10,10,10,work,1,5,5,5,10,3,10,4,0,0,1,10,5,0,10,10,10,1,moderate
+106,Female,20 or below,College,7,4,3,3,7,3,3,SA,7,4,4,3,skipping heartbeat,0,,2,lightheadedness,4,sweating,3,10,4,social,4,6,8,8,7,4,3,7,10,7,3,0,2,3,3,5,4,1,mild
+107,Male,20 or below,College,5,3,6,6,4,6,7,SA,8,9,5,4,racing heartbeat,0,,5,headaches,5,numbness,4,7,8,work,4,1,5,1,2,4,4,6,6,3,2,0,3,5,2,5,8,1,mild
+108,Female,20 or below,Clinical,4,2,8,7,7,8,5,SA,10,7,8,5,chest tightness,10,irritable bowels,7,shakiness,6,tingling,9,7,7,home,9,3,6,8,7,9,9,10,6,9,8,10,8,7,9,8,8,1,mild
+109,Female,21 - 30,Clinical,6,5,6,7,4,6,6,SA,7,4,4,7,shortness of breath,6,constipation,6,dizziness,6,numbness,5,6,4,social,6,5,6,6,4,6,6,7,4,4,7,6,6,6,5,6,4,1,moderate
+112,Male,20 or below,College,7,3,10,0,4,7,0,,7,9,9,10,racing heartbeat,0,,7,dizziness,10,frequent uritation,9,8,6,social,4,3,5,2,1,4,0,3,7,6,8,0,4,6,5,6,6,1,mild
+113,Female,20 or below,College,5,4,7,8,0,5,10,FA,3,1,0,3,shortness of breath,0,,5,lightheadedness,0,,8,7,3,social,5,2,6,0,0,9,8,1,2,0,4,0,3,0,2,6,3,1,mild
+114,Male,21 - 30,College,6,7,8,3,0,7,8,SA,8,8,8,0,,4,stomach upset,5,headaches,0,,8,10,7,social,4,5,8,8,0,8,8,8,8,8,0,4,3,0,8,10,7,1,moderate
+117,Male,21 - 30,College,5,5,6,7,4,4,4,SA,3,3,3,5,racing heartbeat,2,constipation,3,shakiness,3,frequent uritation,4,7,7,work,5,5,6,5,4,4,4,3,3,3,5,2,3,3,4,7,7,1,mild
+118,Female,20 or below,College,7,4,10,4,9,7,0,,4,1,2,6,racing heartbeat,2,stomach upset,7,headaches,6,sweating,8,9,4,work,6,3,10,5,8,7,0,3,3,1,2,1,5,4,5,5,2,1,mild
+121,Female,20 or below,College,3,5,8,8,4,6,1,SA,7,8,3,1,,6,irritable bowels,2,headaches,0,,7,6,5,work,3,5,8,10,4,6,1,7,8,3,1,4,2,0,7,6,5,1,mild
+122,Female,21 - 30,College,5,6,7,8,5,7,7,SA,5,7,7,1,,1,,7,headaches,1,,6,8,6,social,7,8,8,9,6,7,8,6,8,8,1,1,8,1,6,6,5,1,moderate
+123,Male,21 - 30,Clinical,5,7,10,9,4,6,9,SA,8,9,10,7,chest tightness,10,irritable bowels,6,lightheadedness,2,,10,10,10,home,5,7,10,8,4,6,9,8,9,10,7,10,6,2,10,10,10,1,moderate
+124,Male,21 - 30,College,6,5,5,4,1,5,5,SA,9,9,5,10,chest pain,5,constipation,3,headaches,7,sweating,8,3,10,social,7,7,7,9,1,6,7,9,9,6,10,4,4,5,9,4,10,1,moderate
+126,Female,21 - 30,Clinical,5,8,9,9,2,9,0,,8,8,2,7,shortness of breath,8,constipation,6,dizziness,7,sweating,8,8,8,work,9,6,6,4,3,8,0,9,7,2,2,7,5,8,9,6,7,1,moderate
+127,Male,21 - 30,College,7,7,7,2,3,6,6,SA,7,5,6,7,shortness of breath,7,stomach upset,7,headaches,7,sweating,7,7,7,work,6,6,6,6,3,3,5,5,4,4,3,5,6,6,6,4,6,1,moderate
+128,Female,21 - 30,College,4,3,4,5,3,4,4,SA,4,7,5,4,racing heartbeat,2,,3,headaches,1,,3,3,4,work,3,2,7,2,6,7,5,7,6,7,4,2,6,1,5,5,6,1,mild
+130,Male,21 - 30,College,8,10,4,6,4,7,9,SA,8,6,4,5,chest pain,0,,5,dizziness,4,sweating,4,5,0,,4,3,2,8,2,5,9,6,4,1,4,0,2,8,2,3,0,1,mild
+131,Male,20 or below,Clinical,9,9,9,6,8,9,5,SA,9,8,9,3,racing heartbeat,7,irritable bowels,5,headaches,0,,9,1,5,work,9,8,8,8,8,9,6,9,9,9,3,9,4,0,9,1,6,1,moderate
+133,Female,21 - 30,College,7,4,9,5,4,9,9,SA,9,6,9,4,skipping heartbeat,1,,8,headaches,4,frequent uritation,10,8,7,work,6,8,9,3,6,9,9,9,9,9,3,1,9,4,7,6,10,1,moderate
+135,Female,20 or below,Clinical,5,7,7,1,3,3,7,SA,8,9,10,9,shortness of breath,10,irritable bowels,9,headaches,5,tingling,10,10,10,work,6,7,7,7,3,3,5,7,8,9,8,10,9,5,8,8,10,1,moderate
+141,Female,21 - 30,College,4,5,7,3,8,8,2,SA,9,4,4,6,shortness of breath,7,diarrhea,0,,7,frequent uritation,4,4,8,home,4,5,7,2,8,8,2,9,4,4,4,4,0,7,4,4,8,1,mild
+145,Female,21 - 30,College,8,8,8,5,0,4,0,SA,6,5,9,0,,0,,7,headaches,6,sweating,6,7,8,work,6,7,8,4,0,3,0,6,6,9,0,0,7,7,7,7,7,1,mild
+147,Female,20 or below,Clinical,10,10,10,5,10,10,6,SA,10,9,8,10,skipping heartbeat,10,constipation,9,trembling,10,numbness,10,10,10,social,6,8,10,10,9,10,6,8,9,7,10,9,8,6,6,7,8,1,severe
+148,Male,21 - 30,Clinical,7,4,10,8,5,5,7,SA,9,5,2,4,racing heartbeat,10,irritable bowels,6,dizziness,0,,10,9,10,work,4,3,7,4,5,5,10,8,4,2,4,8,5,2,5,5,10,1,mild
+149,Female,21 - 30,College,6,8,5,6,0,7,10,SA,9,8,4,0,,0,,7,trembling,8,tingling,8,7,7,work,5,9,5,8,0,5,10,7,6,4,0,0,4,6,8,5,6,1,mild
+150,Female,20 or below,College,4,4,4,5,4,5,6,SA,8,9,9,4,racing heartbeat,3,irritable bowels,7,trembling,7,frequent uritation,8,8,9,work,7,8,4,4,6,7,7,9,6,9,8,9,7,4,8,9,7,1,mild
+151,Female,20 or below,Clinical,9,8,9,9,7,6,8,SA,9,8,6,5,racing heartbeat,3,irritable bowels,7,trembling,7,frequent uritation,8,7,7,work,9,8,9,9,7,6,8,9,8,6,5,3,7,7,8,7,7,1,moderate
+152,Male,20 or below,College,4,4,4,5,3,5,5,SA,6,4,5,1,,0,,4,headaches,3,flushing,5,5,5,work,4,4,4,4,2,4,4,6,5,5,1,0,4,2,5,5,5,1,mild
+154,Male,20 or below,Clinical,7,9,10,8,6,8,7,FA,9,8,9,0,,0,,10,headaches,10,sweating,7,8,9,work,9,10,10,5,6,8,10,8,8,9,0,0,10,10,9,10,10,1,moderate
+155,Male,21 - 30,College,4,6,9,8,3,5,8,FA,9,7,7,0,,3,irritable bowels,8,headaches,0,,3,4,4,work,6,8,7,7,4,5,8,9,9,5,0,3,5,0,3,2,4,1,mild
+156,Female,21 - 30,Clinical,7,7,7,9,2,8,5,FA,5,7,9,0,,6,irritable bowels,6,headaches,0,,7,6,8,home,8,8,8,9,2,8,7,5,7,7,0,7,5,0,7,4,8,1,moderate
+157,Female,20 or below,Clinical,4,7,10,6,10,8,8,SA,10,10,5,7,racing heartbeat,10,diarrhea,6,lightheadedness,8,sweating,9,8,9,work,8,7,7,6,10,7,10,10,10,5,9,10,7,10,6,10,10,1,severe
+159,Male,21 - 30,College,4,5,4,3,2,4,2,,2,3,3,2,racing heartbeat,0,,1,,3,tingling,3,4,2, ,4,5,4,3,2,5,2,2,3,3,2,0,1,3,3,4,2,1,episodic
+160,Male,21 - 30,College,5,5,5,4,2,3,0,,2,3,6,4,shortness of breath,7,stomach upset,5,headaches,0,,4,6,2,work,5,5,5,6,2,3,0,2,3,6,4,7,5,0,4,6,2,1,mild
+162,Male,20 or below,Clinical,10,9,7,4,7,5,7,FA,4,5,4,4,chest pain,0,,5,headaches,0,,6,6,9,work,4,5,3,5,3,10,3,4,10,9,5,6,9,4,1,6,9,1,moderate
+166,Female,21 - 30,College,4,4,5,7,2,2,2,SA,7,3,4,4,racing heartbeat,0,,5,shakiness,4,tingling,6,5,5,work,7,4,5,6,1,4,4,6,4,5,4,0,5,4,6,5,5,1,mild
+167,Female,21 - 30,Clinical,7,4,6,2,6,7,0,SA,10,2,1,6,racing heartbeat,0,,7,dizziness,0,,5,5,2,work,4,1,4,1,5,4,1,10,4,1,1,0,8,0,5,3,3,1,mild
+169,Female,21 - 30,College,6,4,7,3,0,2,2,SA,2,0,0,7,chest tightness,2,constipation,0,,0,,5,10,6,work,4,8,6,1,0,1,1,4,0,0,2,0,0,0,2,6,3,1,episodic
+171,Female,20 or below,Clinical,7,8,10,10,8,7,8,SA,8,8,8,4,chest pain,8,irritable bowels,5,dizziness,7,sweating,9,10,9,social,4,6,6,6,6,6,4,8,8,8,0,6,5,7,9,10,9,1,moderate
+173,Male,21 - 30,Clinical,6,10,10,7,10,9,10,SA,10,10,5,9,chest tightness,1,constipation,7,trembling,10,numbness,10,7,10,social,10,7,8,7,10,9,10,10,5,8,9,1,10,10,10,5,10,1,severe
+175,Male,20 or below,College,6,6,7,8,2,4,7,SA,8,8,9,2,,9,constipation,9,trembling,6,numbness,8,7,6,work,6,6,6,8,2,4,4,8,7,10,2,9,8,8,8,8,6,1,moderate
+177,Female,20 or below,College,7,10,10,5,0,4,10,FA,2,8,6,10,shortness of breath,6,irritable bowels,6,lightheadedness,6,tingling,10,3,5,social,5,3,10,10,0,7,10,5,8,5,10,2,4,10,6,1,5,1,moderate
+179,Female,20 or below,College,6,8,7,7,10,8,10,FA,9,3,2,8,racing heartbeat,8,constipation,9,headaches,7,sweating,8,2,7,social,4,7,8,5,10,10,6,7,5,4,7,7,7,5,5,1,6,1,moderate
+180,Female,20 or below,Clinical,7,5,6,4,2,6,6,SA,6,5,5,3,shortness of breath,7,diarrhea,5,trembling,7,sweating,6,6,5,work,4,4,6,4,2,5,5,6,5,5,3,7,5,7,6,6,5,1,mild
+182,Female,21 - 30,College,5,5,5,5,4,6,7,FA,6,6,4,4,racing heartbeat,2,,4,headaches,4,flushing,5,6,5,social,6,5,5,5,4,6,7,6,6,4,4,2,4,4,5,6,5,1,mild
+183,Male,21 - 30,Clinical,6,6,7,5,5,9,9,FA,9,7,2,9,racing heartbeat,0,,4,headaches,0,,9,5,3,social,6,7,8,4,3,5,9,8,9,2,9,0,2,0,8,3,1,1,mild
+186,Female,21 - 30,College,6,6,8,9,5,10,9,SA,10,8,9,10,chest pain,4,irritable bowels,9,lightheadedness,3,numbness,10,7,9,work,8,7,10,9,5,10,9,10,8,9,10,7,9,3,10,7,9,1,severe
+187,Female,21 - 30,College,6,6,8,9,4,2,2,,2,4,1,0,,0,,2,shakiness,3,frequent uritation,10,8,6,home,3,3,7,9,4,4,2,2,4,3,0,0,1,4,7,6,6,1,mild
+188,Male,21 - 30,College,5,4,5,6,3,7,4,SA,3,3,2,5,shortness of breath,5,constipation,6,dizziness,7,numbness,4,4,3,work,4,4,4,5,2,6,3,4,3,3,3,3,4,4,2,3,3,1,mild
+194,Male,21 - 30,College,5,6,7,6,5,3,5,FA,3,2,5,4,shortness of breath,0,,4,headaches,2,tingling,3,5,4,work,6,4,6,7,6,3,4,5,4,5,3,0,3,3,2,2,3,1,mild
+197,Male,21 - 30,Clinical,9,3,7,2,2,7,7,FA,8,7,8,8,chest tightness,7,constipation,6,headaches,0,,7,6,6,work,7,3,6,2,2,7,7,8,7,8,8,6,5,0,4,4,4,1,moderate
+198,Male,20 or below,College,4,2,6,3,3,5,4,,4,10,6,2,,3,irritable bowels,4,lightheadedness,6,sweating,8,4,5,work,7,2,9,3,2,5,4,5,8,6,1,4,4,4,7,4,5,1,mild
+200,Male,21 - 30,College,6,6,7,6,0,2,3,SA,1,0,9,4,chest tightness,4,diarrhea,8,dizziness,0,,7,8,0, ,4,4,7,8,0,2,4,1,0,5,0,4,10,0,7,8,0,1,mild
+202,Female,21 - 30,Clinical,10,10,8,10,0,10,4,,6,1,1,5,shortness of breath,5,stomach upset,4,headaches,6,numbness,7,3,8,work,2,2,6,1,0,2,1,6,3,3,0,5,1,4,2,1,2,1,mild
+204,Female,21 - 30,College,10,7,10,10,2,6,7,SA,6,7,6,2,,4,irritable bowels,3,,3,,8,5,9,work,9,9,8,9,8,7,4,4,4,6,6,5,7,8,10,9,9,1,mild
+206,Female,21 - 30,College,4,2,7,3,0,8,4,SA,6,4,2,1,,4,irritable bowels,2,,5,tingling,8,4,0,,6,8,6,1,6,3,4,7,1,3,1,1,8,1,0,0,0,1,mild
+207,Female,21 - 30,College,5,4,4,1,4,0,0,,10,4,1,2,,0,,9,lightheadedness,3,,10,10,7,work,4,4,4,1,10,4,1,10,2,2,1,7,9,3,7,9,9,1,mild
+208,Female,21 - 30,College,9,4,10,10,8,2,8,FA,2,2,0,0,,5,constipation,2,,4,frequent uritation,10,7,8,social,8,6,6,6,5,10,10,2,0,7,2,0,1,4,6,6,6,1,mild
+210,Female,20 or below,College,9,0,10,7,10,0,4,FA,0,0,8,8,chest tightness,4,constipation,10,headaches,8,numbness,4,4,6,social,0,7,8,7,6,5,7,0,8,0,0,0,10,5,3,10,10,1,mild
+211,Female,21 - 30,College,4,10,4,5,0,1,0,,8,8,0,0,,3,,3,,0,,0,0,3,,10,6,7,5,5,6,2,8,1,0,0,5,3,0,4,2,2,1,mild
+212,Male,21 - 30,College,4,4,7,8,2,9,3,,0,1,10,5,chest pain,5,stomach upset,1,,4,sweating,3,3,3,,3,6,6,8,4,4,2,0,8,9,9,3,1,2,3,3,3,1,mild
+213,Female,31 - 40,College,6,6,0,0,1,5,2,,10,5,3,6,racing heartbeat,6,stomach upset,3,,4,sweating,3,3,3,,6,0,0,0,8,4,3,10,6,0,0,4,1,1,1,0,0,1,mild
+215,Male,21 - 30,College,10,10,6,8,3,7,8,FA,8,7,9,0,,2,,4,dizziness,2,,3,2,5,work,5,9,9,10,8,6,8,8,8,0,0,0,3,3,2,4,3,1,mild
+216,Female,20 or below,College,1,3,7,7,10,2,0,,0,0,8,6,shortness of breath,1,,3,,1,,2,2,3,social,2,7,8,5,8,8,2,0,5,10,10,2,3,1,3,2,2,1,mild
+217,Female,20 or below,College,6,8,6,4,2,1,10,FA,5,8,1,9,shortness of breath,7,diarrhea,0,,0,,2,1,0,,4,4,6,4,7,7,4,2,8,0,0,2,0,0,0,3,2,1,mild
+219,Male,20 or below,College,1,1,5,5,4,4,7,FA,7,5,5,5,shortness of breath,1,,4,headaches,6,sweating,8,7,4,social,1,5,5,5,3,5,5,9,5,3,3,4,4,4,4,5,5,1,mild
+220,Male,20 or below,College,6,5,7,5,5,2,0,,6,5,2,2,,4,constipation,4,lightheadedness,0,,8,8,3,,6,7,8,4,0,3,2,6,2,2,1,1,2,0,3,4,4,1,mild
+221,Male,21 - 30,College,7,8,8,4,3,10,10,SA,6,6,6,4,racing heartbeat,0,,8,dizziness,4,,7,7,8,work,8,10,2,6,7,2,8,6,4,8,7,6,10,0,8,0,8,1,mild
+223,Male,21 - 30,College,2,4,8,9,5,7,7,SA,6,9,8,5,skipping heartbeat,6,stomach upset,4,headaches,6,sweating,7,2,3,,3,7,10,9,4,3,9,9,5,1,1,5,1,4,1,8,2,1,mild

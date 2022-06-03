@@ -1,0 +1,56 @@
+Data columns (total 53 columns):
+ #   Column                           Non-Null Count  Dtype
+---  ------                           --------------  -----
+ 0   A1                               205 non-null    int64
+ 1   A2                               205 non-null    int64
+ 2   A3                               205 non-null    int64
+ 3   A4                               205 non-null    int64
+ 4   A5                               205 non-null    int64
+ 5   A6                               205 non-null    int64
+ 6   A7                               205 non-null    int64
+ 7   A8                               205 non-null    int64
+ 8   A9                               205 non-null    int64
+ 9   A10                              205 non-null    int64
+ 10  A11                              205 non-null    int64
+ 11  A12                              205 non-null    int64
+ 12  A13                              205 non-null    int64
+ 13  A14                              205 non-null    int64
+ 14  A15                              205 non-null    int64
+ 15  A16                              205 non-null    int64
+ 16  B1                               205 non-null    int64
+ 17  B2                               205 non-null    int64
+ 18  B3                               205 non-null    int64
+ 19  B4                               205 non-null    int64
+ 20  B5                               205 non-null    int64
+ 21  B6                               205 non-null    int64
+ 22  B8                               205 non-null    int64
+ 23  B9                               205 non-null    int64
+ 24  B10                              205 non-null    int64
+ 25  B11                              205 non-null    int64
+ 26  B12                              205 non-null    int64
+ 27  B13                              205 non-null    int64
+ 28  B14                              205 non-null    int64
+ 29  B15                              205 non-null    int64
+ 30  B16                              205 non-null    int64
+ 31  A7_symptom_FA                    205 non-null    uint8
+ 32  A7_symptom_SA                    205 non-null    uint8
+ 33  A11_symptom_chest pain           205 non-null    uint8
+ 34  A11_symptom_chest tightness      205 non-null    uint8
+ 35  A11_symptom_racing heartbeat     205 non-null    uint8
+ 36  A11_symptom_shortness of breath  205 non-null    uint8
+ 37  A11_symptom_skipping heartbeat   205 non-null    uint8
+ 38  A12_symptom_constipation         205 non-null    uint8
+ 39  A12_symptom_diarrhea             205 non-null    uint8
+ 40  A12_symptom_irritable bowels     205 non-null    uint8
+ 41  A12_symptom_irritable bowelss    205 non-null    uint8
+ 42  A12_symptom_stomach upset        205 non-null    uint8
+ 43  A13_symptom_dizziness            205 non-null    uint8
+ 44  A13_symptom_headaches            205 non-null    uint8
+ 45  A13_symptom_lightheadedness      205 non-null    uint8
+ 46  A13_symptom_shakiness            205 non-null    uint8
+ 47  A13_symptom_trembling            205 non-null    uint8
+ 48  A14_symptom_flushing             205 non-null    uint8
+ 49  A14_symptom_frequent uritation   205 non-null    uint8
+ 50  A14_symptom_numbness             205 non-null    uint8
+ 51  A14_symptom_sweating             205 non-null    uint8
+ 52  A14_symptom_tingling             205 non-null    uint8
